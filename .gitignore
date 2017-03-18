@@ -11,8 +11,4 @@ gen
 .idea/
 ZadanieZaliczeniowe.iml
 out/
-src/com/company/sdajava/zadaniezaliczeniowe/Controller.java
-src/com/company/sdajava/zadaniezaliczeniowe/GUI.java
-src/com/company/sdajava/zadaniezaliczeniowe/Main.java
-src/com/company/sdajava/zadaniezaliczeniowe/Person.java
-src/com/company/sdajava/zadaniezaliczeniowe/UserInput.java
+src/
