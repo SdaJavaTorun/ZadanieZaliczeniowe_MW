@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/
+ZadanieZaliczeniowe.iml
+out/
+src/com/company/sdajava/zadaniezaliczeniowe/Controller.java
+src/com/company/sdajava/zadaniezaliczeniowe/GUI.java
+src/com/company/sdajava/zadaniezaliczeniowe/Main.java
+src/com/company/sdajava/zadaniezaliczeniowe/Person.java
+src/com/company/sdajava/zadaniezaliczeniowe/UserInput.java
