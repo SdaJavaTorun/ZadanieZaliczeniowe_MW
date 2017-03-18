@@ -7,8 +7,3 @@
 *.iml
 out
 gen
-.gitignore
-.idea/
-ZadanieZaliczeniowe.iml
-out/
-src/
